@@ -1,11 +1,11 @@
 const score = 400
-// console.log(score);
+// console.log(score);            /* output => 400 */
 
-const balance = new Number(100)
-// console.log(balance);
+const balance = new Number(100)  
+console.log(balance);           /* output => [Number : 100] */
 
-// console.log(balance.toString().length);
-// console.log(balance.toFixed(1));
+// console.log(balance.toString().length);        /* output => 100 / 3*/
+// console.log(balance.toFixed(2));               /* output => 100.00 */
 
 const otherNumber = 123.8966
 

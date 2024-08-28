@@ -14,6 +14,8 @@ let age = 18
 let isLoggedIn = false
 let state;
 
+// Data types in java script
+
 // number => 2 to power 53
 // bigint
 // string => ""
